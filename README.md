@@ -7,7 +7,9 @@ O objetivo foi aplicar conceitos básicos de análise exploratória de dados, tr
 🚀 Habilidades trabalhadas
 
   SQL → consultas e manipulação dos dados.
+  
   Google Sheets → organização, limpeza e estruturação inicial.
+  
   Power BI → criação de dashboards interativos e visualizações.
 
 🎯 Aprendizados
