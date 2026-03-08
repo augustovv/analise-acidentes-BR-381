@@ -1,0 +1,2 @@
+# Meu-primeiro-projeto-de-An-lise-de-Dados-um-breve-panorama-de-acidentes-ocorridos-na-BR-381.
+Este repositório reúne meu primeiro projeto prático de análise de dados, onde explorei acidentes ocorridos na BR-381 entre julho de 2025 e janeiro de 2026. O objetivo foi aplicar conceitos básicos de análise exploratória de dados, transformando informações brutas em insights visuais e perguntas relevantes.
