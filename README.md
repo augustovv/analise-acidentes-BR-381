@@ -16,6 +16,7 @@ Power BI → Desenvolvi dashboards interativos, criei visualizações em tabelas
 
 Além de exercitar técnicas de análise, este projeto marcou minha jornada inicial no mundo dos dados: desde importar arquivos e estruturar tabelas até pensar em como contar uma história clara por meio de gráficos e dashboards.
 
+![Descrição da imagem](image.png)
 
 
 Link do dashboard: https://alunocefetmgbr-my.sharepoint.com/:u:/g/personal/miguel_carvalho_aluno_cefetmg_br/IQA6sUwouu5CSoeqZvBt7ClwAYWCONfeKTwnR2-MBAtK9dc?e=IziQaj
