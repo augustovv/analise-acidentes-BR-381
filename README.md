@@ -15,7 +15,7 @@ O objetivo foi aplicar conceitos básicos de análise exploratória de dados, tr
 🎯 Aprendizados
 Além de exercitar técnicas de análise, este projeto marcou minha jornada inicial no mundo dos dados: desde importar arquivos e estruturar tabelas até pensar em como contar uma história clara por meio de gráficos e dashboards.
 
-Link do dashboard: https://alunocefetmgbr-my.sharepoint.com/:u:/g/personal/miguel_carvalho_aluno_cefetmg_br/IQA6sUwouu5CSoeqZvBt7ClwAYWCONfeKTwnR2-MBAtK9dc?e=q4OSlC.
+Link do dashboard: https://alunocefetmgbr-my.sharepoint.com/:u:/g/personal/miguel_carvalho_aluno_cefetmg_br/IQA6sUwouu5CSoeqZvBt7ClwAYWCONfeKTwnR2-MBAtK9dc?e=IziQaj
 
 Base de dados utilizada: https://dados.antt.gov.br/dataset/acidentes-rodovias/resource/5d0809f2-e62d-4260-8d2c-dd284d64ea44
 
