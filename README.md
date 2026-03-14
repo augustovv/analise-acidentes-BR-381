@@ -4,13 +4,13 @@ Este repositório reúne meu primeiro projeto prático de análise de dados, ond
 
 O objetivo foi aplicar conceitos básicos de análise exploratória de dados e desenvolver minhas habilidades nas ferramentas clássicas para análise de dados utilizando um dataset real.
 
-🚀 Habilidades trabalhadas
+🚀 Ferramentas x Habilidades Desenvolvidas
 
-  SQL → consultas e manipulação dos dados.
-  
-  Google Sheets → organização, limpeza e estruturação inicial.
-  
-  Power BI → criação de dashboards interativos e visualizações.
+SQL → Realizei consultas elaboradas, utilizei funções agregadoras (SUM, COUNT), trabalhei com datas e horários, apliquei ORDER BY para ordenação, usei funções de concatenação, construí subconsultas mais complexas e filtros avançados com WHERE, BETWEEN e LIKE.
+
+Google Sheets → Consultei e preparei a base inicial para análise.
+
+Power BI → Desenvolvi dashboards interativos, criei visualizações em tabelas, utilizei DAX para filtros e cálculos, estabeleci relações entre tabelas e construí relatórios visuais que facilitaram a leitura e interpretação dos resultados.
 
 🎯 Aprendizados
 Além de exercitar técnicas de análise, este projeto marcou minha jornada inicial no mundo dos dados: desde importar arquivos e estruturar tabelas até pensar em como contar uma história clara por meio de gráficos e dashboards.
